@@ -120,4 +120,4 @@ After you deploy to Sepolia (or run a local deploy) you'll want the frontend to 
 
 This project is licensed under the MIT License.
 
-🔥 Built with love, React, and caffeine.
+🔥 Built with love, Solidity, and caffeine.
